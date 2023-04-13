@@ -1,1 +1,0 @@
-Manual memory managment of nested structs.
